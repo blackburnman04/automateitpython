@@ -1,5 +1,5 @@
 # Automate IT
-Python 3 based application with Tkinter GUI, which provides users with the ability to perform tedious, repetitive tasks much quicker to save time. Examples of some functions available are Sending Bulk Emails, Check Website Uptime, Check Website IP Address, Generated Passwords, Delete Files within a certain file size range, Split PDF files, Join PDF files, and Resize images.
+Python 3 based application with Tkinter GUI, which provides users with the ability to perform tedious, repetitive tasks much quicker to save time. Examples of some functions available are Sending Bulk Emails, Check Website Uptime, Check Website IP Address, Generate Passwords, Delete Files within a certain file size range, Split PDF files, Join PDF files, and Resize images.
 
 This was created for my final year computing project.
 
