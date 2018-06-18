@@ -1,0 +1,24 @@
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\addressbar.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\chromeaddressbar1366x768.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\chromeemail.png
+File found but not image
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\gmailaddress.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\gmaildropdown.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\gmailfocus.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\gmailforgot.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\gmailpass.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\gmailwelcome.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\mailruclear.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\mailruinbox.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\mailruinboxsuccess.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\mailruloggedin.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\mailrupassword.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\mailrussiausername.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\ruinbox.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\linux\gmailalreadyloggedin.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\linux\gmailemail.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\windows\gmailalreadyloggedin.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\windows\gmailemail.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\windows\gmailforgot.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\windows\gmailhi.png
+C:/Users/projectdemo/Desktop/demo/finalcode/1366x768\windows\gmailpass.png

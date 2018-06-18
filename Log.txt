@@ -1,0 +1,854 @@
+Bin Successfully EmptiedThu Feb  1 13:37:45 2018
+Bin Successfully EmptiedThu Feb  1 13:37:47 2018
+Bin Successfully EmptiedThu Feb  1 13:37:47 2018
+Bin Successfully EmptiedThu Feb  1 13:37:48 2018
+Bin Successfully EmptiedThu Feb  1 13:37:48 2018
+Bin Successfully EmptiedThu Feb  1 13:37:48 2018
+Bin Successfully EmptiedThu Feb  1 13:37:48 2018
+Bin Successfully EmptiedThu Feb  1 13:37:48 2018
+Bin Successfully EmptiedThu Feb  1 13:37:49 2018
+Bin Successfully EmptiedThu Feb  1 13:37:49 2018
+Bin Successfully EmptiedThu Feb  1 13:41:54 2018
+Bin Successfully EmptiedThu Feb  1 15:12:23 2018
+Bin Successfully EmptiedThu Feb  1 15:14:06 2018
+Bin Successfully EmptiedThu Feb  1 15:15:04 2018
+Bin Successfully EmptiedThu Feb  1 15:15:06 2018
+Bin Successfully EmptiedThu Feb  1 15:15:06 2018
+Bin Successfully EmptiedThu Feb  1 15:15:06 2018
+Bin Successfully EmptiedThu Feb  1 15:15:07 2018
+Bin Successfully EmptiedThu Feb  1 15:15:35 2018
+Bin Successfully EmptiedThu Feb  1 15:15:57 2018
+Bin Successfully EmptiedThu Feb  1 15:16:23 2018
+Bin Successfully EmptiedThu Feb  1 15:16:47 2018
+Bin Successfully EmptiedThu Feb  1 15:17:06 2018
+Bin Successfully EmptiedThu Feb  1 15:17:33 2018
+Bin Successfully EmptiedThu Feb  1 15:18:03 2018
+Bin Successfully EmptiedThu Feb  1 15:18:20 2018
+Bin Successfully EmptiedMon Feb  5 08:38:16 2018
+Bin Successfully EmptiedMon Feb  5 09:11:30 2018
+Bin Successfully EmptiedMon Feb  5 09:13:47 2018
+Bin Successfully EmptiedMon Feb  5 09:14:46 2018
+Bin Successfully EmptiedMon Feb  5 09:21:47 2018
+Bin Successfully EmptiedMon Feb  5 09:25:39 2018
+Bin Successfully EmptiedMon Feb  5 09:27:19 2018
+Bin Successfully EmptiedMon Feb  5 09:27:41 2018
+Bin Successfully EmptiedMon Feb  5 09:30:17 2018
+Bin Successfully EmptiedMon Feb  5 09:31:35 2018
+Bin Successfully EmptiedMon Feb  5 09:32:46 2018
+Bin Successfully EmptiedMon Feb  5 09:40:04 2018
+Bin Successfully EmptiedMon Feb  5 10:41:45 2018
+Bin Successfully EmptiedMon Feb  5 10:47:25 2018
+Bin Successfully EmptiedMon Feb  5 11:10:30 2018
+Bin Successfully EmptiedMon Feb  5 11:13:08 2018
+2018-04-26 16:27:20,417 Screen Size Detected as(1366, 768)
+2018-04-26 16:28:00,262 PDF Files Joined
+2018-05-17 00:25:59,020 Screen Size Detected as(1366, 768)
+2018-05-17 00:26:15,132     /s         Shutdown the computer.
+2018-05-17 00:26:15,144     /sg        Shutdown the computer. On the next boot,
+2018-05-17 00:26:38,671 Shutdown schedule purged
+2018-05-17 00:27:54,295 Webstie IP Found
+2018-05-17 00:27:54,304 Website IP Found
+2018-05-17 00:28:05,740 Weather data foundNewtownabbey Temp:4C Max:5C Min:4C Hum:89% 
+2018-05-17 00:28:15,925 Passwords generated and saved to generatedpass.txt
+2018-05-17 00:28:15,935 Passwords generated and saved to generatedpass.txt
+2018-05-17 00:28:33,240 Password entered was weak
+2018-05-17 00:28:52,755     /s         Shutdown the computer.
+2018-05-17 00:28:52,768     /sg        Shutdown the computer. On the next boot,
+2018-05-17 00:29:02,193 Router Page Opened
+2018-05-17 00:29:12,005 Windows was found as your OS, loading Windows GUI
+2018-05-17 00:36:23,037 Screen Size Detected as(1366, 768)
+2018-05-17 00:48:37,880 Screen Size Detected as(1366, 768)
+2018-05-17 00:48:47,635 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-17 00:48:55,009 Shutdown schedule purged
+2018-05-17 00:49:22,788 Windows was found as your OS, loading Windows GUI
+2018-05-17 00:49:33,718 Screen Size Detected as(1366, 768)
+2018-05-17 00:49:51,607 Shutdown schedule purged
+2018-05-17 00:50:58,116 Screen Size Detected as(1366, 768)
+2018-05-17 00:50:59,709 Internet Restart
+2018-05-17 00:51:29,768 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-17 00:51:54,593 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-17 00:51:56,674 Opening Gmail.com in browser
+2018-05-17 00:52:21,199 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-17 00:52:23,281 Opening Gmail.com in browser
+2018-05-17 00:53:23,842 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-17 00:53:25,888 Opening Gmail.com in browser
+2018-05-17 00:58:04,117 Screen Size Detected as(1366, 768)
+2018-05-17 00:58:12,648 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-17 00:58:14,790 Opening Gmail.com in browser
+2018-05-17 00:58:26,390 User account is presented, but password needed to login, trying to login with password given
+2018-05-18 10:24:42,153 Screen Size Detected as(1366, 768)
+2018-05-18 10:26:34,157 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:26:36,579 Screen Size Detected as(1366, 768)
+2018-05-18 10:26:50,204 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-18 10:27:00,610 Shutdown schedule purged
+2018-05-18 10:27:06,802 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:27:28,517 Screen Size Detected as(1366, 768)
+2018-05-18 10:27:47,845 Shutdown schedule purged
+2018-05-18 10:30:50,180 Screen Size Detected as(1366, 768)
+2018-05-18 10:31:06,680 Shutdown has been scheduled
+2018-05-18 10:31:19,384 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:31:47,196 Screen Size Detected as(1366, 768)
+2018-05-18 10:31:58,978 Shutdown has been scheduled
+2018-05-18 10:31:59,056 Shutdown has been scheduled
+2018-05-18 10:31:59,134 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-18 10:33:35,697 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:33:39,244 Screen Size Detected as(1366, 768)
+2018-05-18 10:33:52,338     /s         Restart the computer.
+2018-05-18 10:33:52,338     /sg        Restart the computer. On the next boot,
+2018-05-18 10:40:12,299 Screen Size Detected as(1366, 768)
+2018-05-18 10:40:18,455 Shutdown schedule purged
+2018-05-18 10:40:37,471 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:40:42,143 Screen Size Detected as(1366, 768)
+2018-05-18 10:41:42,253 Screen Size Detected as(1366, 768)
+2018-05-18 10:42:03,600 Shutdown schedule purged
+2018-05-18 10:42:11,337 Internet Restart
+2018-05-18 10:42:38,165 Webstie IP Found
+2018-05-18 10:42:38,165 Website IP Found
+2018-05-18 10:42:49,909 Router Page Opened
+2018-05-18 10:43:11,563 Weather data foundBelfast Temp:19C Max:19C Min:15C Hum:74% 
+2018-05-18 10:43:25,298 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-18 10:43:25,329 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-18 10:43:34,306 User is not logged in, attempting to log user in
+2018-05-18 10:44:15,290 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 10:45:08,462 Emails Sent
+2018-05-18 10:46:27,978 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:48:08,120 Screen Size Detected as(1366, 768)
+2018-05-18 10:49:30,823 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:49:34,292 Screen Size Detected as(1366, 768)
+2018-05-18 10:49:43,011 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:49:59,339 Screen Size Detected as(1366, 768)
+2018-05-18 10:50:42,293 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:51:00,121 Screen Size Detected as(1366, 768)
+2018-05-18 10:51:08,059 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:51:28,934 Screen Size Detected as(1366, 768)
+2018-05-18 10:52:07,996 Passwords generated and saved to generatedpass.txt
+2018-05-18 10:52:07,996 Passwords generated and saved to generatedpass.txt
+2018-05-18 10:52:32,043 Password entered was weak
+2018-05-18 10:52:39,106 Password entered was strong
+2018-05-18 10:53:50,277 File Deleted
+2018-05-18 10:54:43,392 Deletion Cancelled
+2018-05-18 10:54:46,024 Deletion Cancelled
+2018-05-18 10:55:30,680 Deletion Cancelled
+2018-05-18 10:56:56,893 Windows was found as your OS, loading Windows GUI
+2018-05-18 10:57:03,893 Screen Size Detected as(1366, 768)
+2018-05-18 10:57:45,868 Deletion Cancelled
+2018-05-18 10:57:47,771 Deletion Cancelled
+2018-05-18 10:58:00,697 Deletion Cancelled
+2018-05-18 10:59:41,934 Screen Size Detected as(1366, 768)
+2018-05-18 10:59:58,653 Screen Size Detected as(1366, 768)
+2018-05-18 11:00:32,075 Deletion Cancelled
+2018-05-18 11:00:35,931 Deletion Cancelled
+2018-05-18 11:03:11,245 Screen Size Detected as(1366, 768)
+2018-05-18 11:03:38,542 Screen Size Detected as(1366, 768)
+2018-05-18 11:06:20,986 Screen Size Detected as(1366, 768)
+2018-05-18 11:06:41,877 Windows was found as your OS, loading Windows GUI
+2018-05-18 11:07:00,674 Screen Size Detected as(1366, 768)
+2018-05-18 11:07:14,165 Deletion Cancelled
+2018-05-18 11:07:15,874 File Deleted
+2018-05-18 11:07:17,384 Windows was found as your OS, loading Windows GUI
+2018-05-18 11:07:20,181 Screen Size Detected as(1366, 768)
+2018-05-18 11:08:10,582 PDF Files Joined
+2018-05-18 11:08:28,426 Screen Size Detected as(1366, 768)
+2018-05-18 11:09:03,168 Screen Size Detected as(1366, 768)
+2018-05-18 11:09:55,220 Screen Size Detected as(1366, 768)
+2018-05-18 11:10:16,455 Windows was found as your OS, loading Windows GUI
+2018-05-18 11:59:56,776 Screen Size Detected as(1366, 768)
+2018-05-18 12:00:27,151 Weather data foundBelfast Temp:17C Max:17C Min:15C Hum:74% 
+2018-05-18 12:00:44,490 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:00:47,147 Opening Gmail.com in browser
+2018-05-18 12:01:56,613 Screen Size Detected as(1366, 768)
+2018-05-18 12:02:05,676 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:02:10,747 Opening Gmail.com in browser
+2018-05-18 12:02:30,764 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-18 12:02:41,160 Screen Size Detected as(1366, 768)
+2018-05-18 12:02:53,024 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:02:55,102 Opening Gmail.com in browser
+2018-05-18 12:03:11,157 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-18 12:03:48,522 Windows was found as your OS, loading Windows GUI
+2018-05-18 12:05:26,820 Screen Size Detected as(1366, 768)
+2018-05-18 12:05:37,805 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:05:39,868 Opening Gmail.com in browser
+2018-05-18 12:06:00,121 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-18 12:06:22,376 Screen Size Detected as(1366, 768)
+2018-05-18 12:06:50,504 Email has been entered correctly assunnimumbai@gmail.com
+2018-05-18 12:06:52,568 Opening Gmail.com in browser
+2018-05-18 12:07:27,915 Screen Size Detected as(1366, 768)
+2018-05-18 12:07:39,352 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:07:41,415 Opening Gmail.com in browser
+2018-05-18 12:08:05,947 Screen Size Detected as(1366, 768)
+2018-05-18 12:08:20,275 Email has been entered correctly assunnimumbai@gmail.com
+2018-05-18 12:08:22,354 Opening Gmail.com in browser
+2018-05-18 12:12:33,224 Screen Size Detected as(1366, 768)
+2018-05-18 12:12:44,079 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:12:46,845 Opening Gmail.com in browser
+2018-05-18 12:13:03,482 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-18 12:13:22,615 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-18 12:13:25,464 Opening Gmail.com in browser
+2018-05-18 12:13:41,287 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-18 12:14:08,726 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-18 12:14:08,788 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-18 12:14:14,902 User is not logged in, attempting to log user in
+2018-05-18 12:14:53,715 Windows was found as your OS, loading Windows GUI
+2018-05-18 12:15:04,993 Screen Size Detected as(1366, 768)
+2018-05-18 12:15:54,728 Screen Size Detected as(1366, 768)
+2018-05-18 12:16:59,468 Screen Size Detected as(1366, 768)
+2018-05-18 12:18:40,411 Screen Size Detected as(1366, 768)
+2018-05-18 12:19:14,008 Windows was found as your OS, loading Windows GUI
+2018-05-18 12:20:09,812 Screen Size Detected as(1366, 768)
+2018-05-18 12:20:12,140 Windows was found as your OS, loading Windows GUI
+2018-05-18 21:56:28,451 Screen Size Detected as(1366, 768)
+2018-05-18 21:57:20,343 Windows was found as your OS, loading Windows GUI
+2018-05-18 21:57:24,188 Screen Size Detected as(1366, 768)
+2018-05-18 21:57:46,096 Windows was found as your OS, loading Windows GUI
+2018-05-18 22:04:43,519 Screen Size Detected as(1366, 768)
+2018-05-18 22:05:48,377 Screen Size Detected as(1366, 768)
+2018-05-18 22:07:49,881 Screen Size Detected as(1366, 768)
+2018-05-18 22:08:12,919 Internet Restart
+2018-05-18 22:08:38,286 Windows was found as your OS, loading Windows GUI
+2018-05-18 22:10:06,755 Screen Size Detected as(1366, 768)
+2018-05-18 22:13:13,839 Screen Size Detected as(1366, 768)
+2018-05-18 22:13:31,155 Screen Size Detected as(1366, 768)
+2018-05-18 22:13:41,303 Internet Restart
+2018-05-18 22:14:16,079 Screen Size Detected as(1366, 768)
+2018-05-18 22:14:21,359 Internet Restart
+2018-05-18 22:14:59,186 Screen Size Detected as(1366, 768)
+2018-05-18 22:15:04,433 Internet Restart
+2018-05-18 22:15:15,794 Internet Restart
+2018-05-18 22:16:08,019 Screen Size Detected as(1366, 768)
+2018-05-18 22:16:13,876 Internet Restart
+2018-05-18 22:18:03,076 Screen Size Detected as(1366, 768)
+2018-05-18 22:18:09,937 Internet has been reset
+2018-05-18 22:18:09,937 Internet Restart
+2018-05-18 22:18:13,304 Windows was found as your OS, loading Windows GUI
+2018-05-19 19:44:01,840 Screen Size Detected as(1366, 768)
+2018-05-19 19:44:17,146 Internet has been reset
+2018-05-19 19:44:17,146 Internet Restart
+2018-05-19 19:44:34,438 Password entered was strong
+2018-05-19 19:44:45,980 Password entered was strong
+2018-05-19 19:44:56,138 Passwords generated and saved to generatedpass.txt
+2018-05-19 19:44:56,138 Passwords generated and saved to generatedpass.txt
+2018-05-19 19:45:00,705 Windows was found as your OS, loading Windows GUI
+2018-05-19 19:47:13,739 Screen Size Detected as(1366, 768)
+2018-05-19 19:47:21,195 Password entered was strong
+2018-05-19 19:47:26,224 Password entered was weak
+2018-05-19 19:47:31,606 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-19 19:47:31,606 Passwords generated and saved to generatedpass.txt
+2018-05-19 19:47:31,698 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-19 19:47:31,698 Passwords generated and saved to generatedpass.txt
+2018-05-19 19:48:27,882 Screen Size Detected as(1366, 768)
+2018-05-19 19:48:38,729 PDF Files Joined
+2018-05-19 19:49:00,243 Windows was found as your OS, loading Windows GUI
+2018-05-19 19:57:09,217 Screen Size Detected as(1366, 768)
+2018-05-19 19:57:19,462 PDF Files Joined
+2018-05-19 19:58:37,638 Screen Size Detected as(1366, 768)
+2018-05-19 19:58:47,474 PDF Files Joined
+2018-05-19 20:01:35,862 Screen Size Detected as(1366, 768)
+2018-05-19 20:01:40,717 No PDF files found to join
+2018-05-19 20:01:53,404 PDF Files Joined
+2018-05-19 20:02:17,144 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:04:25,148 Screen Size Detected as(1366, 768)
+2018-05-19 20:04:29,775 No PDF files found to join
+2018-05-19 20:04:35,285 PDF Files Joined
+2018-05-19 20:05:03,303 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:05:05,334 Screen Size Detected as(1366, 768)
+2018-05-19 20:07:03,802 Screen Size Detected as(1366, 768)
+2018-05-19 20:07:07,410 No PDF files found to join
+2018-05-19 20:07:07,497 No PDF files found to join
+2018-05-19 20:07:07,594 No PDF files found to join
+2018-05-19 20:07:07,688 No PDF files found to join
+2018-05-19 20:11:51,837 Screen Size Detected as(1366, 768)
+2018-05-19 20:11:53,342 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:12:08,953 Screen Size Detected as(1366, 768)
+2018-05-19 20:12:13,006 No PDF files found to join
+2018-05-19 20:12:17,718 PDF Files Joined
+2018-05-19 20:12:20,935 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:13:47,664 Screen Size Detected as(1366, 768)
+2018-05-19 20:13:52,707 No PDF files found to join
+2018-05-19 20:14:15,508 No PDF files found to join
+2018-05-19 20:15:15,096 Screen Size Detected as(1366, 768)
+2018-05-19 20:15:21,306 No PDF files found to join
+2018-05-19 20:20:22,940 Screen Size Detected as(1366, 768)
+2018-05-19 20:20:30,392 PDF Files Joined
+2018-05-19 20:21:07,294 Screen Size Detected as(1366, 768)
+2018-05-19 20:21:17,701 PDF Files Joined
+2018-05-19 20:21:23,028 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:22:15,831 Screen Size Detected as(1366, 768)
+2018-05-19 20:22:23,860 PDF Files Joined
+2018-05-19 20:22:54,170 Screen Size Detected as(1366, 768)
+2018-05-19 20:23:24,009 PDF Files Joined
+2018-05-19 20:23:32,521 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:27:40,050 Screen Size Detected as(1366, 768)
+2018-05-19 20:28:06,937 Screen Size Detected as(1366, 768)
+2018-05-19 20:28:15,798 PDF Files Joined
+2018-05-19 20:28:26,272 PDF Files Joined
+2018-05-19 20:28:39,361 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:29:01,149 Screen Size Detected as(1366, 768)
+2018-05-19 20:29:07,797 PDF Files Joined
+2018-05-19 20:29:09,106 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:30:55,311 Screen Size Detected as(1366, 768)
+2018-05-19 20:31:03,055 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:31:10,188 Screen Size Detected as(1366, 768)
+2018-05-19 20:31:24,384 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:31:38,321 Screen Size Detected as(1366, 768)
+2018-05-19 20:31:50,142 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:33:43,930 Screen Size Detected as(1366, 768)
+2018-05-19 20:34:05,858 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:34:52,728 Screen Size Detected as(1366, 768)
+2018-05-19 20:35:04,574 PDF Files Joined
+2018-05-19 20:35:29,270 PDF Files Joined
+2018-05-19 20:36:20,902 Screen Size Detected as(1366, 768)
+2018-05-19 20:36:27,594 PDF Files Joined
+2018-05-19 20:38:29,490 Screen Size Detected as(1366, 768)
+2018-05-19 20:38:53,166 PDF Files Joined
+2018-05-19 20:39:01,989 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:40:11,069 Screen Size Detected as(1366, 768)
+2018-05-19 20:40:15,667 No PDF Files in directory to join
+2018-05-19 20:41:16,408 Screen Size Detected as(1366, 768)
+2018-05-19 20:41:24,903 PDF Files joined and pdf file created in working directory
+2018-05-19 20:41:29,509 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:43:11,050 Screen Size Detected as(1366, 768)
+2018-05-19 20:43:23,723 PDF File Split
+2018-05-19 20:43:45,949 PDF File Split
+2018-05-19 20:43:45,965 PDF File Split
+2018-05-19 20:43:45,984 PDF File Split
+2018-05-19 20:43:45,996 PDF File Split
+2018-05-19 20:43:46,007 PDF File Split
+2018-05-19 20:44:09,919 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:45:48,881 Screen Size Detected as(1366, 768)
+2018-05-19 20:46:02,006 PDF File Split
+2018-05-19 20:46:02,114 PDF File Split
+2018-05-19 20:46:02,222 PDF File Split
+2018-05-19 20:46:02,319 PDF File Split
+2018-05-19 20:46:02,418 PDF File Split
+2018-05-19 20:46:12,728 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:46:43,994 Screen Size Detected as(1366, 768)
+2018-05-19 20:47:02,166 PDF File Split
+2018-05-19 20:47:55,363 File Deleted
+2018-05-19 20:47:57,017 File Deleted
+2018-05-19 20:47:58,922 Deletion Cancelled
+2018-05-19 20:48:01,430 Deletion Cancelled
+2018-05-19 20:48:12,075 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:49:13,174 Screen Size Detected as(1366, 768)
+2018-05-19 20:49:32,851 Deletion Cancelled
+2018-05-19 20:49:33,755 Deletion Cancelled
+2018-05-19 20:49:34,388 Deletion Cancelled
+2018-05-19 20:49:45,424 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:49:49,744 Screen Size Detected as(1366, 768)
+2018-05-19 20:50:00,466 Deletion Cancelled
+2018-05-19 20:50:01,278 Deletion Cancelled
+2018-05-19 20:50:01,919 Deletion Cancelled
+2018-05-19 20:50:19,191 Deletion Cancelled
+2018-05-19 20:50:19,996 Deletion Cancelled
+2018-05-19 20:50:20,601 Deletion Cancelled
+2018-05-19 20:50:27,861 Windows was found as your OS, loading Windows GUI
+2018-05-19 20:50:53,024 Screen Size Detected as(1366, 768)
+2018-05-19 20:51:23,621 File Deleted
+2018-05-19 20:51:24,475 File Deleted
+2018-05-19 20:55:35,269 Screen Size Detected as(1366, 768)
+2018-05-19 20:55:57,992 File Deleted
+2018-05-19 20:57:27,694 Screen Size Detected as(1366, 768)
+2018-05-19 20:57:42,228 Deletion Cancelled
+2018-05-19 20:58:00,147 Deletion Cancelled
+2018-05-19 20:58:52,647 Screen Size Detected as(1366, 768)
+2018-05-19 20:59:01,521 Deletion Cancelled
+2018-05-19 20:59:02,847 Deletion Cancelled
+2018-05-19 20:59:03,934 Deletion Cancelled
+2018-05-19 20:59:20,658 Windows was found as your OS, loading Windows GUI
+2018-05-19 21:01:42,769 Screen Size Detected as(1366, 768)
+2018-05-19 21:01:49,754 Deletion Cancelled
+2018-05-19 21:01:51,385 Deletion Cancelled
+2018-05-19 21:01:52,739 Deletion Cancelled
+2018-05-19 21:03:35,278 Screen Size Detected as(1366, 768)
+2018-05-19 21:03:44,343 Deletion Cancelled
+2018-05-19 21:03:45,247 Deletion Cancelled
+2018-05-19 21:03:46,183 Deletion Cancelled
+2018-05-19 21:04:04,243 Deletion Cancelled
+2018-05-19 21:04:05,259 Deletion Cancelled
+2018-05-19 21:04:08,064 Deletion Cancelled
+2018-05-19 21:04:22,220 Deletion Cancelled
+2018-05-19 21:04:24,780 Deletion Cancelled
+2018-05-19 21:04:25,453 Deletion Cancelled
+2018-05-19 21:04:27,824 Windows was found as your OS, loading Windows GUI
+2018-05-19 21:05:18,815 Screen Size Detected as(1366, 768)
+2018-05-19 21:05:29,693 Deletion Cancelled
+2018-05-19 21:05:30,476 Deletion Cancelled
+2018-05-19 21:05:31,340 Deletion Cancelled
+2018-05-19 21:05:49,125 Windows was found as your OS, loading Windows GUI
+2018-05-19 21:06:12,581 Screen Size Detected as(1366, 768)
+2018-05-19 21:06:26,233 Deletion Cancelled
+2018-05-19 21:06:27,483 Deletion Cancelled
+2018-05-19 21:06:28,539 Deletion Cancelled
+2018-05-19 21:06:42,194 Windows was found as your OS, loading Windows GUI
+2018-05-20 10:30:32,475 Screen Size Detected as(1366, 768)
+2018-05-20 10:32:34,672 Windows was found as your OS, loading Windows GUI
+2018-05-20 10:37:06,497 Screen Size Detected as(1366, 768)
+2018-05-20 10:40:17,325 Screen Size Detected as(1366, 768)
+2018-05-20 10:40:34,567 Windows was found as your OS, loading Windows GUI
+2018-05-20 10:44:20,716 Screen Size Detected as(1366, 768)
+2018-05-20 10:44:37,454 Windows was found as your OS, loading Windows GUI
+2018-05-20 10:46:14,737 Screen Size Detected as(1366, 768)
+2018-05-20 10:48:54,439 Screen Size Detected as(1366, 768)
+2018-05-20 10:52:08,381 Screen Size Detected as(1366, 768)
+2018-05-20 10:55:48,794 Screen Size Detected as(1366, 768)
+2018-05-20 10:57:29,326 Screen Size Detected as(1366, 768)
+2018-05-20 10:58:51,252 Screen Size Detected as(1366, 768)
+2018-05-20 10:59:50,721 Screen Size Detected as(1366, 768)
+2018-05-20 11:00:48,588 Screen Size Detected as(1366, 768)
+2018-05-20 11:00:51,981 Windows was found as your OS, loading Windows GUI
+2018-05-20 11:01:03,346 Screen Size Detected as(1366, 768)
+2018-05-20 11:01:11,874 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-20 11:01:16,571 Shutdown schedule purged
+2018-05-20 11:01:25,467 Shutdown schedule purged
+2018-05-20 11:02:14,700 Screen Size Detected as(1366, 768)
+2018-05-20 11:02:20,947 Internet has been reset
+2018-05-20 11:02:20,947 Internet Restart
+2018-05-20 11:02:30,899 Windows was found as your OS, loading Windows GUI
+2018-05-20 11:03:00,990 Screen Size Detected as(1366, 768)
+2018-05-20 11:06:13,306 Screen Size Detected as(1366, 768)
+2018-05-20 11:06:54,461 Webstie IP Found
+2018-05-20 11:06:54,462 Website IP Found
+2018-05-20 11:07:04,702 Router Page Opened
+2018-05-20 11:07:04,771 Router Page Opened
+2018-05-20 11:07:33,732 Weather data foundNewtownabbey Temp:14C Max:14C Min:14C Hum:69% 
+2018-05-20 11:07:42,869 Weather data foundDong Temp:29C Max:29C Min:29C Hum:75% 
+2018-05-20 11:08:07,321 Weather data foundNew Temp:21C Max:21C Min:21C Hum:89% 
+2018-05-20 11:08:28,046 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-20 11:08:31,185 Opening Gmail.com in browser
+2018-05-20 11:08:47,757 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-20 11:09:10,310 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-20 11:09:13,503 Opening Gmail.com in browser
+2018-05-20 11:09:29,654 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-20 11:13:25,360 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-20 11:13:25,360 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:13:25,463 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-20 11:13:25,463 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:13:25,565 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-20 11:13:25,565 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:13:25,666 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-20 11:13:25,666 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:13:25,760 Shutdown has already been scheduled, please use cancel command then run again
+2018-05-20 11:13:25,760 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:27,866 Screen Size Detected as(1366, 768)
+2018-05-20 11:14:34,744 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:34,745 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:34,745 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:34,746 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:34,747 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:34,748 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:14:44,269 Windows was found as your OS, loading Windows GUI
+2018-05-20 11:15:04,687 Screen Size Detected as(1366, 768)
+2018-05-20 11:15:09,721 Passwords generated and saved to generatedpass.txt
+2018-05-20 11:15:21,835 Password entered was strong
+2018-05-20 11:15:30,749 Password entered was weak
+2018-05-20 11:16:28,288 Deletion Cancelled
+2018-05-20 11:16:31,197 File Deleted
+2018-05-20 11:16:33,845 Deletion Cancelled
+2018-05-20 11:23:38,071 Screen Size Detected as(1366, 768)
+2018-05-20 11:23:45,155 No PDF Files in directory to join
+2018-05-20 11:25:20,227 Windows was found as your OS, loading Windows GUI
+2018-05-20 12:42:31,035 Screen Size Detected as(1366, 768)
+2018-05-20 12:43:11,756 Internet Restart
+2018-05-20 12:43:11,756 User said reset internet voice command, resetting internet connection
+2018-05-20 12:44:17,783 Passwords generated and saved to generatedpass.txt
+2018-05-20 12:44:17,783 User said password generator, opened dialog
+2018-05-20 19:53:51,347 Screen Size Detected as(1366, 768)
+2018-05-20 19:53:53,758 Windows was found as your OS, loading Windows GUI
+2018-05-26 07:14:12,121 Screen Size Detected as(1366, 768)
+2018-05-26 07:14:23,912 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:16:17,793 Screen Size Detected as(1366, 768)
+2018-05-26 07:16:27,840 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:17:09,805 Opening Gmail.com in browser
+2018-05-26 07:17:29,087 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:23:15,129 Screen Size Detected as(1366, 768)
+2018-05-26 07:23:25,504 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:24:49,087 Screen Size Detected as(1366, 768)
+2018-05-26 07:24:58,087 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-26 07:24:58,165 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-26 07:25:06,514 User is not logged in, attempting to log user in
+2018-05-26 07:27:01,366 Screen Size Detected as(1366, 768)
+2018-05-26 07:27:11,257 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:31:34,768 Screen Size Detected as(1366, 768)
+2018-05-26 07:31:45,715 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:33:05,463 Screen Size Detected as(1366, 768)
+2018-05-26 07:33:18,763 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:33:19,601 Opening Gmail.com in browser
+2018-05-26 07:33:22,758 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 07:34:53,613 Screen Size Detected as(1366, 768)
+2018-05-26 07:35:04,000 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:40:05,338 Screen Size Detected as(1366, 768)
+2018-05-26 07:40:15,855 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:41:38,832 Screen Size Detected as(1366, 768)
+2018-05-26 07:41:49,708 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:42:34,768 Screen Size Detected as(1366, 768)
+2018-05-26 07:42:44,827 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:43:38,427 Screen Size Detected as(1366, 768)
+2018-05-26 07:43:48,766 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:45:36,145 Screen Size Detected as(1366, 768)
+2018-05-26 07:45:49,580 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:46:36,883 Screen Size Detected as(1366, 768)
+2018-05-26 07:46:46,611 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:47:21,281 Screen Size Detected as(1366, 768)
+2018-05-26 07:47:33,378 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-26 07:47:33,500 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-26 07:47:43,773 User is not logged in, attempting to log user in
+2018-05-26 07:49:58,594 Screen Size Detected as(1366, 768)
+2018-05-26 07:50:10,370 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:52:52,115 Screen Size Detected as(1366, 768)
+2018-05-26 07:53:01,196 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:54:45,122 Screen Size Detected as(1366, 768)
+2018-05-26 07:54:54,463 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:54:55,301 Opening Gmail.com in browser
+2018-05-26 07:54:59,390 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 07:57:12,960 Screen Size Detected as(1366, 768)
+2018-05-26 07:57:23,096 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:57:26,304 Opening Gmail.com in browser
+2018-05-26 07:57:58,680 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:58:46,252 Screen Size Detected as(1366, 768)
+2018-05-26 07:58:58,092 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 07:59:01,139 Opening Gmail.com in browser
+2018-05-26 07:59:57,516 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:00:11,569 Opening Gmail.com in browser
+2018-05-26 08:00:22,501 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 08:00:28,450 Windows was found as your OS, loading Windows GUI
+2018-05-26 08:01:18,568 Screen Size Detected as(1366, 768)
+2018-05-26 08:01:30,532 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:07:07,974 Screen Size Detected as(1366, 768)
+2018-05-26 08:07:19,396 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:09:38,769 Screen Size Detected as(1366, 768)
+2018-05-26 08:09:50,816 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:10:10,073 Opening Gmail.com in browser
+2018-05-26 08:10:15,276 Screen Size Detected as(1366, 768)
+2018-05-26 08:10:25,932 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-26 08:10:26,041 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-26 08:10:32,490 User is not logged in, attempting to log user in
+2018-05-26 08:15:32,848 Screen Size Detected as(1366, 768)
+2018-05-26 08:15:42,531 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:15:43,462 Opening Gmail.com in browser
+2018-05-26 08:15:48,616 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 08:17:36,018 Screen Size Detected as(1366, 768)
+2018-05-26 08:17:44,831 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:18:28,613 Screen Size Detected as(1366, 768)
+2018-05-26 08:18:37,754 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:20:58,006 Screen Size Detected as(1366, 768)
+2018-05-26 08:21:06,537 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:38:07,938 Screen Size Detected as(1366, 768)
+2018-05-26 08:38:23,235 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 08:38:23,235 Opening Gmail.com in browser
+2018-05-26 08:38:27,314 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 11:28:27,793 Screen Size Detected as(1366, 768)
+2018-05-26 11:28:43,137 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 11:33:10,150 Screen Size Detected as(1366, 768)
+2018-05-26 11:33:28,197 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 11:33:28,228 Opening Gmail.com in browser
+2018-05-26 11:33:32,088 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 11:34:53,823 Screen Size Detected as(1366, 768)
+2018-05-26 11:35:06,870 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 11:35:07,104 Opening Gmail.com in browser
+2018-05-26 11:35:11,354 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 11:38:08,873 Screen Size Detected as(1366, 768)
+2018-05-26 11:38:20,857 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 11:38:20,904 Opening Gmail.com in browser
+2018-05-26 11:38:24,551 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 11:39:03,014 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 11:39:03,061 Opening Gmail.com in browser
+2018-05-26 11:39:06,567 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 11:39:12,186 Windows was found as your OS, loading Windows GUI
+2018-05-26 11:39:27,795 Screen Size Detected as(1366, 768)
+2018-05-26 11:39:37,766 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 11:39:37,835 Opening Gmail.com in browser
+2018-05-26 11:39:43,355 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 11:39:52,547 Windows was found as your OS, loading Windows GUI
+2018-05-26 12:14:02,539 Screen Size Detected as(1366, 768)
+2018-05-26 12:14:15,836 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:14:15,852 Opening Gmail.com in browser
+2018-05-26 12:14:20,555 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:14:31,445 Windows was found as your OS, loading Windows GUI
+2018-05-26 12:15:02,431 Screen Size Detected as(1366, 768)
+2018-05-26 12:15:14,791 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:15:14,822 Opening Gmail.com in browser
+2018-05-26 12:15:25,353 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:15:39,498 Windows was found as your OS, loading Windows GUI
+2018-05-26 12:17:48,793 Screen Size Detected as(1366, 768)
+2018-05-26 12:18:01,231 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:18:01,278 Opening Gmail.com in browser
+2018-05-26 12:18:11,293 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:20:56,204 Screen Size Detected as(1366, 768)
+2018-05-26 12:21:04,923 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:21:04,970 Opening Gmail.com in browser
+2018-05-26 12:21:17,251 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:23:29,113 Screen Size Detected as(1366, 768)
+2018-05-26 12:23:38,128 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:23:38,175 Opening Gmail.com in browser
+2018-05-26 12:24:09,116 Screen Size Detected as(1366, 768)
+2018-05-26 12:24:19,178 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:24:19,335 Opening Gmail.com in browser
+2018-05-26 12:24:44,444 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:25:06,543 Screen Size Detected as(1366, 768)
+2018-05-26 12:25:16,574 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:25:16,730 Opening Gmail.com in browser
+2018-05-26 12:25:34,433 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:25:43,978 Windows was found as your OS, loading Windows GUI
+2018-05-26 12:26:04,978 Screen Size Detected as(1366, 768)
+2018-05-26 12:26:15,337 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 12:26:15,462 Opening Gmail.com in browser
+2018-05-26 12:26:32,900 User is not logged in, and no stored accout present, attempting full login with details given
+2018-05-26 12:26:39,572 Windows was found as your OS, loading Windows GUI
+2018-05-26 17:55:43,231 Screen Size Detected as(1366, 768)
+2018-05-26 17:55:53,653 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 17:55:53,700 Opening Gmail.com in browser
+2018-05-26 17:58:09,522 Screen Size Detected as(1366, 768)
+2018-05-26 17:58:23,147 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 17:58:23,194 Opening Gmail.com in browser
+2018-05-26 18:00:37,993 Screen Size Detected as(1366, 768)
+2018-05-26 18:00:48,087 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 18:01:34,665 Screen Size Detected as(1366, 768)
+2018-05-26 18:01:45,790 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 18:01:45,837 Opening Gmail.com in browser
+2018-05-26 18:02:40,833 Screen Size Detected as(1366, 768)
+2018-05-26 18:02:50,260 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 18:02:50,291 Opening Gmail.com in browser
+2018-05-26 18:03:15,189 Windows was found as your OS, loading Windows GUI
+2018-05-26 19:30:45,017 Screen Size Detected as(1366, 768)
+2018-05-26 19:30:57,923 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 19:30:57,970 Opening Gmail.com in browser
+2018-05-26 19:31:42,046 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 19:31:42,093 Opening Gmail.com in browser
+2018-05-26 19:32:35,701 Screen Size Detected as(1366, 768)
+2018-05-26 19:32:48,717 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 19:33:14,889 Emails Sent
+2018-05-26 19:34:15,782 Passwords generated and saved to generatedpass.txt
+2018-05-26 19:34:30,220 Password entered was weak
+2018-05-26 19:36:09,330 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-26 19:36:09,455 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-26 19:36:13,158 User is not logged in, attempting to log user in
+2018-05-26 19:37:38,362 Router Page Opened
+2018-05-26 19:37:38,394 Router Page Opened
+2018-05-26 19:54:31,975 Screen Size Detected as(1366, 768)
+2018-05-26 19:54:53,835 Webstie IP Found
+2018-05-26 19:54:53,835 Website IP Found
+2018-05-26 19:55:13,913 Windows was found as your OS, loading Windows GUI
+2018-05-26 22:02:33,130 Screen Size Detected as(1366, 768)
+2018-05-26 22:02:40,064 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:08:15,482 Screen Size Detected as(1366, 768)
+2018-05-26 22:08:35,497 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 22:08:35,503 Opening Gmail.com in browser
+2018-05-26 22:09:49,032 Screen Size Detected as(1366, 768)
+2018-05-26 22:10:00,666 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 22:10:00,669 Opening Gmail.com in browser
+2018-05-26 22:15:55,701 Screen Size Detected as(1366, 768)
+2018-05-26 22:16:08,587 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-26 22:16:08,592 Opening Gmail.com in browser
+2018-05-26 22:16:29,111 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:19:14,063 Screen Size Detected as(1366, 768)
+2018-05-26 22:19:42,096 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:20:15,936 Screen Size Detected as(1366, 768)
+2018-05-26 22:20:24,973 Shutdown scheduled for Sat 2018-05-26 22:40:19 BST, 
+2018-05-26 22:20:35,353 Shutdown schedule purged
+2018-05-26 22:20:53,660 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:22:15,546 Screen Size Detected as(1366, 768)
+2018-05-26 22:22:19,864 Shutdown schedule purged
+2018-05-26 22:22:33,758 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:22:44,661 Screen Size Detected as(1366, 768)
+2018-05-26 22:22:47,430 Shutdown schedule purged
+2018-05-26 22:23:02,130 Shutdown scheduled for Sat 2018-05-26 22:24:57 BST, 
+2018-05-26 22:23:07,144 Shutdown schedule purged
+2018-05-26 22:23:13,236 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:25:20,874 Screen Size Detected as(1366, 768)
+2018-05-26 22:25:30,474 Shutdown scheduled for Sat 2018-05-26 22:26:25 BST, 
+2018-05-26 22:25:35,443 Shutdown schedule purged
+2018-05-26 22:26:22,986 Linux was found as your OS, loading Linux GUI
+2018-05-26 22:28:03,336 Screen Size Detected as(1366, 768)
+2018-05-26 22:33:37,456 Screen Size Detected as(1366, 768)
+2018-05-26 22:33:43,110 Linux was found as your OS, loading Linux GUI
+2018-05-27 12:33:56,622 Screen Size Detected as(1366, 768)
+2018-05-27 12:34:57,426 Screen Size Detected as(1366, 768)
+2018-05-27 12:36:07,781 Screen Size Detected as(1366, 768)
+2018-05-27 12:36:22,369 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-27 12:36:22,374 Opening Gmail.com in browser
+2018-05-27 12:42:35,548 Screen Size Detected as(1366, 768)
+2018-05-27 12:43:09,028 Weather data foundNewtownabbey Temp:20C Max:20C Min:19C Hum:62% 
+2018-05-27 12:43:09,028 User said check weather voice command, opened weather dialog
+2018-05-27 14:49:00,541 Screen Size Detected as(1366, 768)
+2018-05-27 14:53:15,494 Screen Size Detected as(1366, 768)
+2018-05-27 14:53:39,046 User said password generator, opened dialog
+2018-05-27 14:53:53,177 User said password generator, opened dialog
+2018-05-27 14:54:47,293 Screen Size Detected as(1366, 768)
+2018-05-27 14:55:19,763 Passwords generated and saved to generatedpass.txt
+2018-05-27 14:55:19,772 User said password generator, opened dialog
+2018-05-27 15:14:26,767 Screen Size Detected as(1366, 768)
+2018-05-27 15:14:58,451 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:14:58,460 User said password generator, opened dialog
+2018-05-27 14:17:51,039 Screen Size Detected as(1366, 768)
+2018-05-27 14:18:08,335 Passwords generated and saved to generatedpass.txt
+2018-05-27 14:18:08,351 User said password generator, opened dialog
+2018-05-27 14:18:24,876 Weather data foundNewtownabbey Temp:21C Max:21C Min:21C Hum:58% 
+2018-05-27 14:19:00,133 Windows was found as your OS, loading Windows GUI
+2018-05-27 15:26:56,312 Screen Size Detected as(1366, 768)
+2018-05-27 15:28:22,373 Weather data foundNewtownabbey Temp:21C Max:21C Min:21C Hum:58% 
+2018-05-27 15:28:31,413 Password entered was weak
+2018-05-27 15:28:42,189 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:31:47,743 Screen Size Detected as(1366, 768)
+2018-05-27 15:32:29,998 Screen Size Detected as(1366, 768)
+2018-05-27 15:33:20,624 Screen Size Detected as(1366, 768)
+2018-05-27 15:33:34,788 Internet Restart
+2018-05-27 15:33:47,365 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:35:14,448 Screen Size Detected as(1366, 768)
+2018-05-27 15:35:34,349 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:36:49,201 Screen Size Detected as(1366, 768)
+2018-05-27 15:38:07,879 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:38:18,137 Password entered was weak
+2018-05-27 15:40:14,686 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:41:39,156 Screen Size Detected as(1366, 768)
+2018-05-27 15:43:23,423 Screen Size Detected as(1366, 768)
+2018-05-27 15:43:47,647 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:43:47,656 User said password generator, opened dialog
+2018-05-27 15:45:41,806 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:46:59,372 Screen Size Detected as(1366, 768)
+2018-05-27 15:47:35,347 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:47:35,357 User said password generator, opened dialog
+2018-05-27 15:48:46,763 Screen Size Detected as(1366, 768)
+2018-05-27 15:49:33,409 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:49:33,409 User said password generator, opened dialog
+2018-05-27 15:50:29,079 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:50:56,716 Screen Size Detected as(1366, 768)
+2018-05-27 15:51:35,935 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:51:35,947 User said password generator, opened dialog
+2018-05-27 15:53:42,040 Screen Size Detected as(1366, 768)
+2018-05-27 15:54:03,108 Shutdown scheduled for Sun 2018-05-27 19:13:58 BST, 
+2018-05-27 15:54:09,210 Shutdown schedule purged
+2018-05-27 15:54:15,800 Internet Restart
+2018-05-27 15:54:57,562 Weather data foundNewtownabbey Temp:22C Max:22C Min:21C Hum:58% 
+2018-05-27 15:55:22,449 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:55:26,985 Password entered was weak
+2018-05-27 15:55:50,702 Linux was found as your OS, loading Linux GUI
+2018-05-27 15:06:09,700 Screen Size Detected as(1366, 768)
+2018-05-27 15:06:25,269 Shutdown schedule purged
+2018-05-27 15:06:37,141 Shutdown schedule purged
+2018-05-27 15:06:40,382 Internet Restart
+2018-05-27 15:07:14,709 Webstie IP Found
+2018-05-27 15:07:14,709 Website IP Found
+2018-05-27 15:07:18,178 Router Page Opened
+2018-05-27 15:07:29,991 Weather data foundNewtownabbey Temp:21C Max:21C Min:21C Hum:54% 
+2018-05-27 15:08:02,102 Passwords generated and saved to generatedpass.txt
+2018-05-27 15:08:07,399 Windows was found as your OS, loading Windows GUI
+2018-05-27 18:32:50,314 Screen Size Detected as(1366, 768)
+2018-05-27 18:34:56,893 Screen Size Detected as(1366, 768)
+2018-05-27 18:35:12,550 Shutdown schedule purged
+2018-05-27 18:35:31,569 Shutdown schedule purged
+2018-05-27 18:35:56,991 Webstie IP Found
+2018-05-27 18:35:56,991 Website IP Found
+2018-05-27 18:36:00,991 Router Page Opened
+2018-05-27 18:36:01,038 Router Page Opened
+2018-05-27 18:36:19,898 Weather data foundBelfast Temp:17C Max:18C Min:17C Hum:55% 
+2018-05-27 18:37:07,476 Passwords generated and saved to generatedpass.txt
+2018-05-27 18:37:15,914 Password entered was weak
+2018-05-27 18:40:57,498 IP Address Released and Renewed
+2018-05-27 18:40:57,498 Internet Restart
+2018-05-27 20:24:34,325 Screen Size Detected as(1366, 768)
+2018-05-27 20:24:52,284 Internet Restart
+2018-05-27 20:25:06,680 Internet Restart
+2018-05-27 20:25:35,626 Screen Size Detected as(1366, 768)
+2018-05-27 20:25:42,591 Internet Restart
+2018-05-27 20:25:53,984 Passwords generated and saved to generatedpass.txt
+2018-05-27 20:26:00,208 Linux was found as your OS, loading Linux GUI
+2018-05-27 20:26:14,338 Screen Size Detected as(1366, 768)
+2018-05-27 20:26:25,629 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-27 20:26:25,634 Opening Gmail.com in browser
+2018-05-27 20:27:22,452 Linux was found as your OS, loading Linux GUI
+2018-05-27 20:27:28,256 Screen Size Detected as(1366, 768)
+2018-05-27 20:27:56,807 Linux was found as your OS, loading Linux GUI
+2018-05-27 20:29:28,139 Screen Size Detected as(1366, 768)
+2018-05-27 20:31:41,051 Screen Size Detected as(1366, 768)
+2018-05-27 20:32:09,659 Screen Size Detected as(1366, 768)
+2018-05-27 20:32:40,824 Screen Size Detected as(1366, 768)
+2018-05-27 20:37:12,782 Linux was found as your OS, loading Linux GUI
+2018-05-27 20:40:03,663 Screen Size Detected as(1366, 768)
+2018-05-27 20:40:23,687 PDF File Split
+2018-05-27 20:40:26,957 Linux was found as your OS, loading Linux GUI
+2018-05-27 20:42:24,708 Screen Size Detected as(1366, 768)
+2018-05-27 20:42:52,931 PDF File Split
+2018-05-27 20:43:05,128 Linux was found as your OS, loading Linux GUI
+2018-05-27 20:43:07,747 Screen Size Detected as(1366, 768)
+2018-05-27 20:43:17,096 Shutdown scheduled for Tue 2018-05-29 06:03:12 BST, 
+2018-05-27 20:43:20,408 Shutdown schedule purged
+2018-05-27 20:44:21,438 Screen Size Detected as(1366, 768)
+2018-05-27 20:44:30,353 Restart scheduled for Tue 2018-05-29 06:04:25 BST, 
+2018-05-27 20:44:33,292 Shutdown schedule purged
+2018-05-27 20:44:38,869 Internet Restart
+2018-05-27 20:45:13,863 Weather data foundBelfast Temp:16C Max:18C Min:16C Hum:55% 
+2018-05-27 20:45:24,749 Passwords generated and saved to generatedpass.txt
+2018-05-27 20:45:34,367 Linux was found as your OS, loading Linux GUI
+2018-05-28 11:09:43,583 Screen Size Detected as(1366, 768)
+2018-05-28 11:09:54,510 Shutdown scheduled for Mon 2018-05-28 11:29:49 BST, 
+2018-05-28 11:09:57,824 Shutdown schedule purged
+2018-05-28 11:10:09,945 Restart scheduled for Mon 2018-05-28 11:30:04 BST, 
+2018-05-28 11:10:13,788 Shutdown schedule purged
+2018-05-28 11:10:21,036 Internet Restart
+2018-05-28 11:10:42,597 Internet Restart
+2018-05-28 11:11:08,759 Internet Restart
+2018-05-28 11:12:07,616 Weather data foundNewtownabbey Temp:20C Max:20C Min:20C Hum:68% 
+2018-05-28 11:12:27,245 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-28 11:12:27,251 Opening Gmail.com in browser
+2018-05-28 11:12:57,746 Email has been entered correctly asbrendanrodgers@mail.ru
+2018-05-28 11:12:57,752 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-28 11:13:00,461 User is not logged in, attempting to log user in
+2018-05-28 11:13:28,153 Email has been entered correctly ascom562demo@mail.ru
+2018-05-28 11:13:28,158 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-28 11:13:30,934 User is not logged in, attempting to log user in
+2018-05-28 11:14:16,349 Passwords generated and saved to generatedpass.txt
+2018-05-28 11:14:25,598 Password entered was weak
+2018-05-28 11:16:13,468 Screen Size Detected as(1366, 768)
+2018-05-28 11:16:46,821 Weather data foundBelfast Temp:20C Max:20C Min:20C Hum:68% 
+2018-05-28 11:16:46,822 User said check weather voice command, opened weather dialog
+2018-05-28 11:21:58,726 Screen Size Detected as(1366, 768)
+2018-05-28 11:22:25,576 Weather data foundBelfast Temp:20C Max:20C Min:20C Hum:68% 
+2018-05-28 11:22:25,577 User said check weather voice command, opened weather dialog
+2018-05-28 11:23:54,112 Screen Size Detected as(1366, 768)
+2018-05-28 11:24:23,362 Weather data foundBelfast Temp:20C Max:20C Min:20C Hum:68% 
+2018-05-28 11:24:23,362 User said check weather voice command, opened weather dialog
+2018-05-28 11:24:44,201 Linux was found as your OS, loading Linux GUI
+2018-05-28 11:26:13,083 Screen Size Detected as(1366, 768)
+2018-05-28 11:27:25,135 Weather data foundBelfast Temp:20C Max:20C Min:20C Hum:68% 
+2018-05-28 11:27:25,135 User said check weather voice command, opened weather dialog
+2018-05-28 11:29:10,491 Screen Size Detected as(1366, 768)
+2018-05-28 11:29:44,664 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-28 11:29:44,671 Opening Gmail.com in browser
+2018-05-28 11:29:55,723 User said check email voice command, opened email dialog
+2018-05-28 11:30:10,446 Linux was found as your OS, loading Linux GUI
+2018-05-28 11:31:25,246 Screen Size Detected as(1366, 768)
+2018-05-28 11:31:28,275 Linux was found as your OS, loading Linux GUI
+2018-05-28 10:37:42,263 Screen Size Detected as(1366, 768)
+2018-05-28 10:38:12,997 Screen Size Detected as(1366, 768)
+2018-05-28 10:38:52,457 Weather data foundBelfast Temp:21C Max:21C Min:20C Hum:68% 
+2018-05-28 10:38:52,457 User said check weather voice command, opened weather dialog
+2018-05-28 10:39:12,037 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-28 10:39:12,052 Opening Gmail.com in browser
+2018-05-28 10:39:28,193 User said check email voice command, opened email dialog
+2018-05-28 10:39:42,470 Passwords generated and saved to generatedpass.txt
+2018-05-28 10:39:42,470 User said password generator, opened dialog
+2018-05-28 10:40:15,207 Passwords generated and saved to generatedpass.txt
+2018-05-28 10:42:15,773 User said check image, opened  dialog
+2018-05-28 11:47:57,815 Screen Size Detected as(1366, 768)
+2018-05-28 11:48:09,002 Router Page Opened
+2018-05-28 11:48:09,024 Router Page Opened
+2018-05-28 11:48:09,039 Router Page Opened
+2018-05-28 13:48:51,876 Screen Size Detected as(1366, 768)
+2018-05-28 13:49:09,373 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-28 13:49:09,383 Opening Gmail.com in browser
+2018-05-28 13:50:18,722 Email has been entered correctly ascom562demo@mail.ru
+2018-05-28 13:50:18,805 Mail.ru has been opened, checking to see if user is logged in or not
+2018-05-28 13:50:22,247 User is not logged in, attempting to log user in
+2018-05-28 13:50:54,102 Email has been entered correctly ascom562demo@gmail.com
+2018-05-28 13:50:54,110 Opening Gmail.com in browser
+2018-05-28 13:51:51,907 Email has been entered correctly ascom562demo@gmail.com
+2018-05-28 13:51:51,915 Opening Gmail.com in browser
+2018-05-28 13:52:35,674 Weather data foundNewtownabbey Temp:21C Max:21C Min:21C Hum:59% 
+2018-05-28 13:52:47,283 Weather data foundBelfast Temp:21C Max:21C Min:21C Hum:59% 
+2018-05-28 13:52:59,763 Passwords generated and saved to generatedpass.txt
+2018-05-28 13:53:23,233 Windows was found as your OS, loading Windows GUI
+2018-05-28 13:53:34,263 Screen Size Detected as(1366, 768)
+2018-05-28 13:53:36,774 Internet Restart
+2018-05-28 13:55:02,162 Webstie IP Found
+2018-05-28 13:55:02,163 Website IP Found
+2018-05-28 13:55:18,346 Email has been entered correctly asbrendan.rodgers@gmail.com
+2018-05-28 13:56:30,684 Emails Sent

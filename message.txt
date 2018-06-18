@@ -1,0 +1,2 @@
+This is a new template
+Testing from input gui
