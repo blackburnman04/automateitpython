@@ -9,24 +9,24 @@ Dependencies:
 
 Imports Needed:
 
--PyAutoGUI
--WebBrowser
--ZipFile
--SMTPLib
--Re
--Random
--Logging
--Speech_Recognition
--PyPDF2
--JSON
--PyAudio
--PIL
--Tkinter
+- PyAutoGUI
+- WebBrowser
+- ZipFile
+- SMTPLib
+- Re
+- Random
+- Logging
+- Speech_Recognition
+- PyPDF2
+- JSON
+- PyAudio
+- PIL
+- Tkinter
 - Requests
 - Time
 - CSV
--OS
--GTTS(Google Text to Speech)
+- OS
+- GTTS(Google Text to Speech)
 
 How to Use:
 
