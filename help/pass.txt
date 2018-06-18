@@ -1,0 +1,32 @@
+Password Functions
+------------------
+
+Password Generator
+------------------
+
+For Linux & Windows:
+
+Click Password Generator Button
+
+Enter number of passwords you want to create when prompted
+
+Press Enter
+
+Enter length of each password you want to create when prompted
+
+Press Enter
+
+Generated passwords will be saved to file named "generatedpass.txt" in current working directory.
+
+---------------------------------------------------------
+
+Strength Check
+--------------
+
+For Linux & Windows:
+
+Click Strength Check Button
+
+Enter Password you would like to test when prompted.
+
+Result will be displayed in dialog box.

@@ -1,0 +1,32 @@
+Timed PC Shutdown & Restart
+
+For Linux: 
+
+When Button is pressed enter a number in minutes.
+Press Enter key
+A shutdown will be scheduled for the time, after the amount
+of minutes you entered.
+
+Example: If the time is currently 12:00 and you entered 30,
+when prompted, a shutdown will be scheduled for 12:30.
+
+A notice will be displayed stating scheduled details
+
+For Windows:
+
+Same as linux, only user must enter seconds instead of minutes.
+
+Example: If the time is currently 12:00 and you enter 60, a
+shutdown will be scheduled for 12:01.
+
+
+Cancelling Shutdown or Restart
+
+
+For Linux:
+
+Press Cancel Command button, all scheduled events will cancel.
+
+For Windows:
+
+Same procedure as Linux.

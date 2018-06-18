@@ -1,0 +1,89 @@
+General Functions
+-----------------
+
+Check Weather
+-------------
+
+For Linux:
+
+Click Check Weather button
+
+Enter Location name, example: Newtownabbey
+
+Current weather conditions will be displayed in dialog box
+
+
+For Windows:
+
+Same procedure as Linux
+
+------------------------------------------------------
+
+Check Email
+-----------
+
+For Linux:
+
+Click Check Email button
+
+Enter email address
+
+*only Gmail and Mail.ru supported for this version, other emails will not work
+
+Enter password
+
+Browser will load, and details will be entered automatically, and inbox will be shown.
+
+** It is advised not to touch or click keyboard or mouse after entry of credentials into program, as this could interfere with automation of this process.
+
+
+For Windows:
+
+Same procedure as linux
+
+----------------------------------------------------
+
+Send Email
+----------
+
+For Linux & Windows:
+
+
+Click Send Email Button
+
+Enter email address you would like to send email from
+
+Press Enter
+
+Enter password for email you entered previously
+
+Press Enter
+
+Select a file containing email address*
+
+* Important Note, text file selected must be formatted as below *
+
+emailone email@email.com
+emailtwo email@email.com
+emailthree email@email.com
+
+*Basically a name must be present just before the email address, so that the program can differentiate between emails.
+
+After selecting text file containing email address, you will be prompted to select text file containing template message.
+
+Once this has been selected you will be prompted to enter SMTP address. This must link with the email address that was entered previous.
+
+Example: 
+
+If the email entered at the beginning was email@gmail.com, you would enter smtp.gmail.com
+
+After entering SMTP address press Enter
+
+In next dialog box enter the subject for Email.
+
+Press Enter.
+
+Program will then attempt to send message to emails.
+
+Output will be displayed in dialog, stating email has been sent and to what addresses.
+----------------------------------------------------------

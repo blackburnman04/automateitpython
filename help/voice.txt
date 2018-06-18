@@ -1,0 +1,24 @@
+Voice Control
+-------------
+
+Running Functions in App Using Voice
+------------------------------------
+
+For Linux & Windows
+-------------------
+
+Click Voice Control Button
+
+Say what function you would like to use
+
+Example:
+
+To Open Check Weather say "Check Weather"
+
+To Open Send Email say "Send Email"
+
+To Open Check Email say "Check Email"
+
+To stop the program from requesting voice command say "Stop"
+
+

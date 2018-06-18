@@ -1,0 +1,38 @@
+Custom Functions
+----------------
+
+Currently in this version five custom functions can be made.
+
+------------------------------------------------------------
+
+Creating Custom Functions
+-------------------------
+
+For Linux & Windows:
+
+Press Create Function button
+
+Click Load Menu to load Custom Function files
+
+Example: 
+
+Clicking Load Menu....Load Function 1, will open the Custom FUnction 1 file and allow you to edit, or create this function.
+--------------
+
+Once finished creating function, click Save Menu and clik the corresponding function file that was edited. 
+
+Example: If you have edited custom function 1, you would click Save Menu.....Save Custom Function 1. 
+
+Once you have clicked Save you can quit the Create Custom Function dialog by clicking Quit.
+
+--------------------------------------------------------------
+
+Opening Custom Function
+-----------------------
+
+For Linux & Windows:
+
+Click the labelled Custom Function button to run that function.
+
+
+

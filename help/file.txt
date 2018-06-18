@@ -1,0 +1,91 @@
+File Functions
+--------------
+
+Delete Big Files
+----------------
+For Linux & Windows:
+
+Click Delete Big Files Button
+
+Enter the maximum file size you would like to search for and delete*
+
+Note: If the user enters for instance 100, file of 100mb and below will be deleted.
+
+Select Directory you would like to delete files of selected size from.
+
+You will be prompted before each file is deleted for confirmation.
+
+---------------------------------------------------------
+
+Files to Zip
+------------
+
+For Linux & Windows:
+
+Select folder containing the files you want to zip
+
+Enter the name for zip containing files you want to create
+
+Zip file with the name that was entered will be present in the working directory of the script
+
+---------------------------------------------------------
+
+Image Check
+-----------
+
+For Linux & Windows:
+
+Click Image Check Button
+
+Select Directory
+
+Each file in directory will be checked and filepaths will be posted to file named "imagefiles.txt" in working directory.
+
+---------------------------------------------------------
+
+Image Resize
+------------
+
+For Linux & Windows
+
+Click Image Resize button
+
+Select directory containing files to resize
+
+Input new height and width dimensions when prompted.
+
+Resized images will be outputted to same directory with resize before the original filename.
+
+Join PDF's 
+----------
+
+For Linux & Windows:
+
+Click Join PDF button
+
+Select directory containing PDFs you want to join
+
+Enter name of file for joined PDF file being created.
+
+Press Enter
+
+Joined PDF file with name entered will be created in working directory.
+
+-------------------------------------------------------
+
+Split PDF's
+-----------
+
+For Linux & Windows:
+
+Click Split PDF Button
+
+Select PDF file you want to split
+
+Select Directory where you would like to output split PDF files
+
+Split PDFs will be created in selected directory
+
+------------------------------------------------------
+
+

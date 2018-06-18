@@ -1,0 +1,76 @@
+Reset Internet
+--------------
+
+For Linux:
+
+Press the Reset Internet Button.
+
+The network interface will restart.
+
+You may be prompted to enter sudo password
+
+This is due to command needing elevated privilege.
+
+
+For Windows:
+
+Press the Reset Internet Button.
+
+IP Address will be released and renewed.
+
+
+-------------------------------------------------
+
+Check Website Uptime
+--------------------
+
+For Linux:
+
+Press the Check Website Uptime button
+
+Enter the domain name without http or www
+
+Example: yahoo.com
+
+Dialog will be displayed with result of uptime check
+
+
+For Windows:
+
+Same procedure as Linux
+
+--------------------------------------------------
+
+Website IP Finder
+-----------------
+
+For Linux:
+
+Press the Website IP Finder button
+
+Enter the domain name without http or www
+
+Example: yahoo.com
+
+Dialog will be displayed with the result of IP Check
+
+
+For Windows:
+
+Same procedure as Linux
+
+-------------------------------------------------
+
+Router Page
+-----------
+
+For Linux:
+
+Press the Router page button
+
+Router page should be loaded in browser
+
+Note: Feature might not work with commercial based routers,
+will most likely only work on home connections.
+
+
